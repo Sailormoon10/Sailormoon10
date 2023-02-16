@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sailormoon10
+- 👋 Hi, my name is Amy
 - 👀 I’m interested in ... software engineering. 
 - 🌱 I’m currently learning ...Python and Machine learning
-- 💞️ I’m looking to collaborate on ...debugging, cool projects
+- 💞️ I’m looking to collaborate on ...debugging, cool projects.
 - 📫 How to reach me ...
 
 <!---

@@ -1,8 +1,7 @@
 - 👋 Hi, my name is Amy.
 - 👀 I’m interested in ... software engineering. 
-- 🌱 I’m currently learning ...Python and Machine learning
-- 💞️ I’m looking to collaborate on ...debugging, cool projects.
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ...Python, Java, and JavaScript for web development. 
+
 
 <!---
 Sailormoon10/Sailormoon10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

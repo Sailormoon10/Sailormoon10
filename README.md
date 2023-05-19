@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Amy.
 - 👀 I’m interested in ... software engineering. 
-- 🌱 I’m currently learning ...Python, Java, and JavaScript for web development. 
+- 🌱 I’m currently doing activities in Python, Java, and JavaScript to build my portfolio. 
 
 
 <!---
